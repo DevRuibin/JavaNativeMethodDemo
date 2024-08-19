@@ -1,5 +1,7 @@
 # Java Native Methods
 
+> The expirement is conducted on the M2 chip of MacOS
+
 [Tutorial](https://www.iitk.ac.in/esc101/05Aug/tutorial/native1.1/stepbystep/index.html)
 
 On mac os, with JDK 17, here is the commands used:
